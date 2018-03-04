@@ -21,3 +21,8 @@ return [
     ],
 ]
 
+How to Use :
+
+  $verify = Yii::$app->get('iap-component');
+  
+  $verify->verify($receipt);
