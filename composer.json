@@ -14,7 +14,7 @@
             "email": "vosipenko1394@gmail.com"
         }
     ],
-    
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "linnoxlewis\\iap\\": "src/"
