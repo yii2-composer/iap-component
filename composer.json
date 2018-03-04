@@ -1,0 +1,23 @@
+{
+    "name": "linnoxlewis/Iap-component",
+    "description": "In app Purchase component for yii2. Need for verify your purchases in Itusnes-server",
+    "type": "package",
+    "require": {
+        "yiisoft/yii2": "2.*",
+        "yiisoft/yii2-bootstrap": "^2.0",
+        "linslin/yii2-curl": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaliy Osipenko",
+            "email": "vosipenko1394@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "linnoxlewis\\iap\\": "src/"
+        }
+    }
+}
