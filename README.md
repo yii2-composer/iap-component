@@ -3,10 +3,12 @@ Yii2 In app Purchase Component.
 Installation
 composer require "linnoxlewis/Iap-component"
 
+
 Basic Configuration
 Once the extension is installed, simply modify your application configuration as follows:
 
 use linnoxlewis\iap\IapComponent;
+
 
 return [
    'components' => [
@@ -20,6 +22,7 @@ return [
            ]
     ],
 ]
+
 
 How to Use :
 
