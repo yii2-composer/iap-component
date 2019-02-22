@@ -1,5 +1,5 @@
 {
-    "name": "linnoxlewis/iap-component",
+    "name": "whalew/iap-component",
     "description": "In app Purchase component for yii2. Need for verify your purchases in Itusnes-server",
     "type": "package",
     "require": {

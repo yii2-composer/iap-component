@@ -74,7 +74,7 @@ class IapComponent extends Component implements IapInterface
             throw new IapRequestException("request failed",500);
         }
 
-        return $response;
+        return json_decode($response);
     }
 
     /**
